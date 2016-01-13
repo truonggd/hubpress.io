@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "truonggd",
-    "repositoryName": "truonggd.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"truonggd","repositoryName":"truonggd.github.io","branch":"master"},"site":{"title":"Giao Truong","url":"https://truonggd.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//truonggd.github.io/themes/Casper"}}
